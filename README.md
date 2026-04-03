@@ -1,12 +1,12 @@
 # Hi, I'm Andrew 👋
 
-Computer Engineering graduate and a Full-Stack .NET Developer — trained at **ITI** (Information Technology Institute) on the Full-Stack Web & Generative AI Development using .NET track.
+Mechatronics Engineering graduate and a Full-Stack .NET Developer — trained at **ITI** (Information Technology Institute) on the Full-Stack Web & Generative AI Development using .NET track.
 
 ---
 
 ## About Me
 
-- 🎓 Computer Engineering graduate
+- 🎓 Mechatronics Engineering graduate
 - 🏛️ ITI Graduate — Full-Stack Web & Generative AI Development (.NET Track)
 - 💻 Building full-stack web apps, desktop software, and AI-integrated solutions
 - 🤖 Background in Embedded Systems, Robotics, and Control Systems
@@ -74,19 +74,6 @@ The ITI 4-month intensive track covered:
 - Intro to Generative AI & Prompt Engineering
 - Vibe Coding and working with Gen-AI APIs
 - Advanced Gen-AI: RAG and Agentic Software
-
----
-
-## Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [Hotel Manager](https://github.com/Andrew702/LabHotelManagment) | Hotel management system — reservations, guests, room availability, and kitchen meal delivery tracking | C#, EF Core, Dapper, SQL Server, WinForms |
-| [4-DOF Pick & Place Robot](https://github.com/Andrew702/4-DOF-Pick-Place-Robot) | Control system for a 4-DOF robotic arm | C++ |
-| [Inverted Pendulum](https://github.com/Andrew702/ServoBase-InvertedPendulum) | Servo-based inverted pendulum balancing system | Makefile |
-| [Temperature Control](https://github.com/Andrew702/Temperature-Control-Amit-Project) | Embedded temperature control project | C |
-| [Automatic Control Tutorial](https://github.com/Andrew702/AutomaticControl-Tutorial) | Explanations and examples for automatic control systems | MATLAB |
-| [LeetCode Solutions](https://github.com/Andrew702/MyLeetCode) | LeetCode problem solutions | C# |
 
 ---
 
