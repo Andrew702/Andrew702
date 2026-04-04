@@ -53,28 +53,4 @@ Mechatronics Engineering graduate and a Full-Stack .NET Developer — trained at
 
 ---
 
-## ITI Training — What I Covered
-
-The ITI 4-month intensive track covered:
-
-**Software Engineering Fundamentals**
-- OOP with C# and Secure Coding
-- Data Structures & Algorithms
-- Operating Systems & Networking
-- SOLID Principles and .NET Design Patterns
-- Introduction to Software Testing & Agile
-
-**Full-Stack Web Development**
-- Database Design, SQL Server & Entity Framework Core
-- LINQ for data manipulation
-- ASP.NET Core MVC and Web APIs
-- TypeScript, Advanced JavaScript (ES.Next), Angular, Responsive Web Design
-
-**Generative AI Development**
-- Intro to Generative AI & Prompt Engineering
-- Vibe Coding and working with Gen-AI APIs
-- Advanced Gen-AI: RAG and Agentic Software
-
----
-
 *Always learning, always building.*
